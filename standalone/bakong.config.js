@@ -8,7 +8,7 @@ window.DYNA_BAKONG_CONFIG = {
    * Payment API host. Same as your Vercel URL for GitHub Pages / shared links.
    * On https://dyna-store36.vercel.app or http://127.0.0.1:8787 the app uses /api/check-md5 on that host.
    */
-  apiBase: 'https://dyna-store36.vercel.app',
+  apiBase: 'https://dyna-store3-dkkt.vercel.app/',
   /** Do not use localhost here when deployed */
   proxy: '',
   email: 'thikkthikk09@gmail.com',
